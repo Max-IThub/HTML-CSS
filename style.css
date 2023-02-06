@@ -1,0 +1,48 @@
+.widthFirstScreen{
+    width: 119em;
+}
+.heightFirstScreen{
+    height: 50em;
+}
+.dpFlex{
+    display: flex;
+}
+.dpBlock{
+    display: block;
+}
+.alignItems{
+    align-items:center;
+}
+.justifyContent{
+    justify-content: center;
+}
+.relative{
+    position: relative;
+}
+.bgcForest{
+    background-color: forestgreen;
+}
+.bgcWhite{
+    background-color: white;
+}
+.borderRadius{
+    border-radius: 15px;
+}
+.mainFontSize{
+    font-size:50px;
+}
+.mainTextColor{
+    color: aliceblue;
+}
+.toBottom{
+    bottom: 0;
+}
+.marginTop10{
+    margin-top: 10;
+}
+.wrapper{
+    display: grid;
+}
+.gtColumns{
+    grid-template-columns:  500px 1fr 2fr;;
+}
